@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anmol!! Great to see you here! 
-- I am [Anmol Kumar Gupta]((http://anmolkgupta.github.io/)), Currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & frontend developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+- I am [Anmol Kumar Gupta](http://anmolkgupta.github.io/), Currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & frontend developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 - 👀 I’m interested in Full Stack Web Development. 🌱 I’m currently learning Frontend Developer
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanmolgupta@gmail.com@gmail.com)](mailto:kanmolgupta8@gmail.com)
@@ -57,14 +57,3 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2029%20mins-blue)
 📊 **This Week I Spent My Time On** 
 ```text
-⌚︎ Time Zone: Asia/Kolkata
-💬 Programming Languages: 
-JavaScript               19 mins             ██████████████████░░░░░░░   75.01% 
-JSON                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   24.89% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
-🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.0%
-💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.0%
-```
-
