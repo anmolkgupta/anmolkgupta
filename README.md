@@ -3,16 +3,16 @@
 - 👀 I’m interested in Full Stack Web Development. 🌱 I’m currently learning Frontend Developer
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanmolgupta@gmail.com@gmail.com)](mailto:kanmolgupta8@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/)](https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/)](https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kanmolgupta)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com//)](https://instagram.com/)<!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://.hashnode.dev/) -->
 <!-- [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://anmolkgupta.github.io/)](https://anmolkgupta.github.io/) -->
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
-[![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anmolkguptagupta&theme=xcode)](https://github.com/anmolkgupta)
+[![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anmolkgupta&theme=xcode)](https://github.com/anmolkgupta)
 ## 👨🏻‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/anmolkgupta/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/)
