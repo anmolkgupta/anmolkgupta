@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anmol!! Great to see you here! 
-- I am [Anmol Kumar Gupta](http://anmolkgupta.github.io/), Currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & frontend developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
-- 👀 I’m interested in Full Stack Web Development. 🌱 I’m currently learning Frontend Developer
+- I am [Anmol Kumar Gupta](http://anmolkgupta.github.io/), Currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). I am a tech enthusiast & frontend developer. I am always open to collaborating on projects and innovative/disruptive ideas.I’m interested in Full Stack Web Development. I’m currently learning Frontend Developer Find out more about me & feel free to connect with me here: 👀 
+
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanmolgupta@gmail.com@gmail.com)](mailto:kanmolgupta8@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/)](https://www.linkedin.com/in/anmol-kumar-gupta-620a9b202/)
