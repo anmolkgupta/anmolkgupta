@@ -41,19 +41,5 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <!-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) -->
-## 📈 Stats
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=anmolkguptagupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolkgupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkgupta&theme=tokyonight" />
-</p>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2029%20mins-blue)
-📊 **This Week I Spent My Time On** 
-```text
+
+
