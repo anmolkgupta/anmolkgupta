@@ -1,12 +1,11 @@
-# Hi, I am Anmol! Great to see you here! <img src="https://raw.githubusercontent.com/anamolguptaa/anamolgupta/main/src/wave.gif" width="30px">
+# Hi, I am Anmol! Great to see you here! <img src="https://raw.githubusercontent.com/anmolkgupta/anmolkgupta/main/src/wave.gif" width="30px">
 I am Anmol Gupta, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). Find out more about me & feel free to connect with me here:
 
-[![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anamolguptaa&theme=xcode)](https://github.com/anamolguptaa)
+[![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anmolkgupta&theme=xcode)](https://github.com/anmolkgupta)
 ## 👨🏻‍💻 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/anamolguptaa)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/anamolguptaa)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anamolguptaa)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anamolguptaa)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/theanmolgupta)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/kanmolg61ky)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/anmolguptaji2018)
 <img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
 ## ⚡ Technologies
 ### Language
@@ -38,13 +37,13 @@ I am Anmol Gupta, currently pursuing my B.Tech degree in Information Technology 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=anamolguptaa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anamolguptaa&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=anmolkgupta&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolkgupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamolguptaa&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolkgupta&theme=tokyonight" />
 </p>
 
 
