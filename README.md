@@ -1,7 +1,6 @@
 # Hi, I am Anmol! Great to see you here! <img src="https://raw.githubusercontent.com/anmolkgupta/anmolkgupta/main/src/wave.gif" width="30px">
 I am Anmol Gupta, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). Find out more about me & feel free to connect with me here:
 
-[![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=anmolkgupta&theme=xcode)](https://github.com/anmolkgupta)
 ## 👨🏻‍💻 Coding Profiles
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/theanmolgupta)
 [![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-05CC47?style=flat-square&logo=GeeksForGeeks&logoColor=black)](https://auth.geeksforgeeks.org/user/kanmolg61ky)
