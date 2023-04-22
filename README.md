@@ -1,4 +1,4 @@
-# Hi, I am Anmol! Great to see you here! <img src="https://raw.githubusercontent.com/anmolkgupta/anmolkgupta/main/src/wave.gif" width="30px">
+# Hi, I am Anmol! Great to see you here!
 I am Anmol Gupta, currently pursuing my B.Tech degree in Information Technology from [Asansol Engineering College](https://www.aecwb.edu.in/). Find out more about me & feel free to connect with me here:
 
 ## 👨🏻‍💻 Coding Profiles
